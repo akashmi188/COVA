@@ -1,0 +1,32 @@
+body{
+  background-color: lightblue;
+}
+h1{
+  display: block;
+  font-family: monoton;
+  text-align: center;
+  background-color: black;
+  color:white;
+}
+span{
+  color:red;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+table{
+  width:100%;
+}
+.covi{
+  font-family: monoton;
+}
+tr:hover {
+  background: grey;
+  cursor: pointer;
+
+}
+th{
+  padding-bottom: 15px;
+  text-align: center;
+}
